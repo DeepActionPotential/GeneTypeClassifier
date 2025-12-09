@@ -4,7 +4,7 @@
 
 A lightweight Gradio app to classify gene records using a pre-trained Gradient Boosting model. Point it at a nucleotide sequence and a short description, and get a predicted gene type.
 
----
+
 
 ## Table of Contents
 - **[Demo](#demo)**
